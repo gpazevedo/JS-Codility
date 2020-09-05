@@ -6,7 +6,11 @@ Learning JavaScript
 
 [BinaryGap](./BinaryGap/README.md): Find the size of the longest sequence of zeros in the binary representation of an integer.
 
+## Lesson 2: Arrays
+
 [CyclicRotation](./CyclicRotation/README.md): Rotate array A K times.
+
+[OddOccurrencesInArray](./OddOccurrencesInArray/README.md): Element with odd number of occurrances in an array.
 
 ## Development Workflow
 
