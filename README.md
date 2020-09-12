@@ -12,6 +12,10 @@ Learning JavaScript
 
 [OddOccurrencesInArray](./OddOccurrencesInArray/README.md): Element with odd number of occurrances in an array.
 
+## Lesson 3: Time Complexity
+
+[FrogJmp](./FrogRiverOne/README.md): Minimal number of jumps to target
+
 ## Development Workflow
 
 ```
