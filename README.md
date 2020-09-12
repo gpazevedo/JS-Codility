@@ -16,6 +16,8 @@ Learning JavaScript
 
 [FrogJmp](./FrogRiverOne/README.md): Minimal number of jumps to target
 
+[PermMissingElem](./PermMissingElem/README.md): Find the missing element in a incomplete sequence.
+
 ## Development Workflow
 
 ```
