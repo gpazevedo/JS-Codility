@@ -24,7 +24,11 @@ Learning JavaScript
 
 [FrogRiverOne](./FrogRiverOne): Find the earliest time the frog can cross the river.
 
-[MaxCounters](./MaxCounters): Maximizes n counters
+[MaxCounters](./MaxCounters): Maximizes n counters.
+
+[MissingInteger](./MissingInteger): Missing positive integer.
+
+[PermCheck](./PermCheck): Checks if an array has exactly the numbers of a permutation.
 
 ## Development Workflow
 
