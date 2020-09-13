@@ -18,6 +18,8 @@ Learning JavaScript
 
 [PermMissingElem](./PermMissingElem/README.md): Find the missing element in a incomplete sequence.
 
+[TapeEquilibrium](./TapeEquilibrium/README.md):
+
 ## Development Workflow
 
 ```
