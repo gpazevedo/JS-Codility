@@ -18,7 +18,11 @@ Learning JavaScript
 
 [PermMissingElem](./PermMissingElem/README.md): Find the missing element in a incomplete sequence.
 
-[TapeEquilibrium](./TapeEquilibrium/README.md):
+[TapeEquilibrium](./TapeEquilibrium/README.md): Absolute difference between the sum of the first part and the sum of the second part of a sequence.
+
+## Lesson 4: Counting Elements
+
+[FrogRiverOne](./FrogRiverOne): Find the earliest time the frog can cross the river.
 
 ## Development Workflow
 
