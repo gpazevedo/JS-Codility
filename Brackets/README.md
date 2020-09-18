@@ -1,6 +1,6 @@
 # Brackets
 
-Codility:
+Codility: https://app.codility.com/demo/results/training2VJYE2-T5C/
 
 ## Background
 
