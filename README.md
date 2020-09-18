@@ -30,6 +30,10 @@ Learning JavaScript
 
 [PermCheck](./PermCheck): Checks if an array has exactly the numbers of a permutation.
 
+## Lesson 7: Stacks and Queues
+
+[Brackets](./Brackets/README.md): Checks if a string is properly nested.
+
 ## Development Workflow
 
 ```
