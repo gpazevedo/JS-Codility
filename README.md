@@ -34,6 +34,8 @@ Practing JavaScript
 
 [CountDiv](./CountDiv): Compute number of integers divisible by k in range [a..b].
 
+[MinAvgTwoSlice](./MinAvgTwoSlice): Find the minimal average of any slice containing at least two elements.
+
 ## Lesson 7: Stacks and Queues
 
 [Brackets](./Brackets/README.md): Checks if a string is properly nested.
