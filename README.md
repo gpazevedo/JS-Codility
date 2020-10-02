@@ -1,6 +1,6 @@
 # My Codility Solutions in JS
 
-Learning JavaScript
+Practing JavaScript
 
 ## Lesson 1: Iterations
 
@@ -29,6 +29,10 @@ Learning JavaScript
 [MissingInteger](./MissingInteger): Missing positive integer.
 
 [PermCheck](./PermCheck): Checks if an array has exactly the numbers of a permutation.
+
+## Lesson 5: Prefix Sums
+
+[CountDiv](./CountDiv): Compute number of integers divisible by k in range [a..b].
 
 ## Lesson 7: Stacks and Queues
 

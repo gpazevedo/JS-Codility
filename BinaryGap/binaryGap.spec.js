@@ -2,11 +2,11 @@ const { binaryGap } = require("./binaryGap");
 
 describe("binaryGap", () => {
   it("1 should return 0", () => {
-    expect(binaryGap(32)).toEqual(0);
+    expect(binaryGap(1)).toEqual(0);
   });
 
   it("2 should return 0", () => {
-    expect(binaryGap(32)).toEqual(0);
+    expect(binaryGap(2)).toEqual(0);
   });
 
   it("power of 2 should return 0", () => {
