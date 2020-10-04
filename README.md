@@ -44,6 +44,10 @@ Practing JavaScript
 
 [Brackets](./Brackets/README.md): Checks if a string is properly nested.
 
+## Lesson 9: Maximum slice problem
+
+[MaxDoubleSliceSum](./MaxDoubleSliceSum/README.md) Find the maximal sum of any double slice.
+
 ## Development Workflow
 
 ```
