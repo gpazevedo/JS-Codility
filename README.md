@@ -48,6 +48,10 @@ Practing JavaScript
 
 [MaxDoubleSliceSum](./MaxDoubleSliceSum/README.md) Find the maximal sum of any double slice.
 
+## Lesson 10: Prime and composite numbers
+
+[Flags](./Flags/README.md) Find the maximum number of flags that can be set on mountain peaks.
+
 ## Development Workflow
 
 ```
